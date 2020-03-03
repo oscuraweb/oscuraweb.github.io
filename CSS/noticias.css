@@ -1,0 +1,15 @@
+	* {
+		margin:0px; 
+		padding:0px;
+		font-family: 'Special Elite', cursive;
+		cursor:url(https://img.icons8.com/metro/26/000000/rock-music.png) 10 3, auto;
+	}
+	:root{
+		background-image:linear-gradient(#3A383A,#EDB9F6);
+	}
+	div {
+		border-color:black; 
+		border-style:solid;
+		background-image:url(../Fotos/ofondo.jpg);
+	}
+	

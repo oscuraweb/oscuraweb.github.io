@@ -1,0 +1,123 @@
+* {
+		margin:0px; 
+		padding:0px;
+		font-family: 'Special Elite', cursive;
+		cursor:url(https://img.icons8.com/metro/26/000000/rock-music.png) 10 3, auto;
+	}
+	:root{
+		background-image:linear-gradient(#3A383A,#EDB9F6);
+	}
+	#nombre{
+		background-color:#EDB9F6;
+		top:628px;
+		position:relative;
+		font-size: 22px;
+	}
+	
+	.div1{
+		background-image:url(../Fotos/ofondo.jpg);
+		background-attachment: fixed;
+		background-size: 100%;
+		background-repeat: no-repeat;
+		width:900px;
+		height:1000px;
+		margin: 10px auto;
+		position: relative;	
+	}
+	#redes{
+		width: 700px;
+		margin:70px 90px;
+		background:#AEAFB0;
+		opacity:90%;
+		position: relative;
+		font-size: 30px;
+		margin:auto;
+		padding: 50px;
+		top: 100px;
+		bottom:100px;
+		border-style:double;
+	}
+	#insta{
+		width:50px;
+		height:50px;
+	}
+	#facebook{
+		width:50px;
+		height:50px;
+	}
+	#twitter{
+		width:50px;
+		height:50px;
+	}
+
+
+* {
+    box-sizing: border-box;
+}
+.contenedor{
+    width: 500px;
+    padding: 15px;
+    position: relative;
+}
+.formulario{
+    background: #fff;
+    bottom: 600px;
+    padding: 3px;
+    position: relative;
+   
+}
+h1{
+    text-align: center;
+    color: #3A383A;
+    font-size: 40px;
+}
+input[type="text"],
+input[type="password"]{
+    font-size: 20px;
+    width: 470px;
+    padding: 9px;
+    border: none;
+}
+.input-contenedor{
+    margin-bottom: 15px;
+    border: 1px solid #aaa;
+    position: relative;
+}
+.icon{
+    min-width: 50px;
+    text-align: center;
+    color: #999;
+}
+.button{
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    background:  #3A383A;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button:hover{
+    background: cadetblue;
+}
+p{
+    text-align: center;
+}
+
+@media(min-width:768px)
+{
+   .formulario{
+        margin: auto;
+        width: 500px;
+        margin-top: 150px;
+        border-radius: 2%;
+    }
+}
+
+
+
+
+
+
+
